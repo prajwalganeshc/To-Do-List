@@ -17,17 +17,8 @@ A simple and visually appealing **To-Do List Application** that helps users **or
 
 ## 🛠️ Tech Stack
 
-- Frontend: HTML, CSS, JavaScript *(or React)*  
-- Backend: Python / FastAPI *(if applicable)*  
-- Storage: Local Storage / File System / Database  
-
-*(Update based on your implementation)*
-
----
-
-## 📸 Screenshots
-
-_Add screenshots here to highlight the colorful UI_
+- Frontend: HTML, CSS, JavaScript   
+- Storage: Local Storage / File System
 
 ---
 
@@ -36,4 +27,5 @@ _Add screenshots here to highlight the colorful UI_
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
+
 
