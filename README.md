@@ -1,4 +1,4 @@
-# ✅ Colorful To-Do List Application
+# To-Do List Application
 
 A simple and visually appealing **To-Do List Application** that helps users **organize tasks, track progress, and boost productivity**. The app features a **clean and colorful UI** designed to make task management enjoyable and intuitive.
 
@@ -36,3 +36,4 @@ _Add screenshots here to highlight the colorful UI_
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
+
